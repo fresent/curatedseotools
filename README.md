@@ -142,6 +142,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 ## Outreach Tools
 * https://ninjaoutreach.com - Ninjaoutreach - All purpose influencer marketing tool
 * http://www.buzzstream.com - Buzzstream - Research influencers, manage your relationships, and conduct outreach that’s personalized and efficient.
+* https://mystrika.com - Mystrika - Cold Email software that starts warm business deals
 * http://pitchbox.com - Pitchbox - Influencer Outreach & Content Marketing Platform
 * http://content.onalytica.com - Onalytica.com - Find Influencers With Your Content
 * https://mailshake.com - Mailshake - A simple solution for cold emails
